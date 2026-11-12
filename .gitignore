@@ -1,0 +1,12 @@
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+.Rproj.user/
+.Rlib/
+tmp/
+data/raw/
+data/processed/
+*.rds
+*.RData
+*.log
